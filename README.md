@@ -7,7 +7,7 @@ Encodes handwritten images using a Visual Transformer into a latent vector, deco
 Assuming target system has CUDA capable graphics card with CUDA toolkit, python3-pip, python3-venv, installed 
 
 ### Start venv, install requirements
-```python3 -m venv .venv```
-```source .venv/bin/activate```
-```pip install -r requirements.txt```
+- ```python3 -m venv .venv```
+- ```source .venv/bin/activate```
+- ```pip install -r requirements.txt```
 
