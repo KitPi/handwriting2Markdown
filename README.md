@@ -11,3 +11,5 @@ Assuming target system has CUDA capable graphics card with CUDA toolkit, python3
 - ```source .venv/bin/activate```
 - ```pip install -r requirements.txt```
 
+## Datasets
+https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k
