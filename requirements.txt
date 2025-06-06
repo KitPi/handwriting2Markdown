@@ -4,3 +4,9 @@ pandas
 matplotlib
 datasets
 transformers
+protobuf
+tiktoken
+sentencepiece
+evaluate
+jiwer
+tensorboard
