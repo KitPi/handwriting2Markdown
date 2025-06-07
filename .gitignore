@@ -3,3 +3,5 @@ dataset/
 clip-roberta/
 output/
 TrOCR/
+logs/
+backup/
