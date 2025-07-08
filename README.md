@@ -14,3 +14,6 @@ Assuming target system has CUDA capable graphics card with CUDA toolkit, python3
 
 ## Datasets
 https://www.kaggle.com/datasets/shahrukhkhan/im2latex100k
+
+## Evaluation
+![Evauluation](image.png)
